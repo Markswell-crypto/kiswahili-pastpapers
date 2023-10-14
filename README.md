@@ -47,7 +47,7 @@ The development of the KiswahiliExams web application will address the education
 
 We are excited about the opportunity to work on this project and contribute to improving education in Kenya.
 
-**Note:** This proposal is a high-level overview of the project. Further details, including budget, timelines, and technology stack, would be part of a comprehensive project plan.
+**Note:** This proposal is a high-level overview of the project. Further details, including budget, timelines and technology stack, would be part of a comprehensive project plan.
 
 ## Budget
 1. Development Team
