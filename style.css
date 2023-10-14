@@ -1,0 +1,21 @@
+/* Apply styles to the navigation bar */
+.navbar {
+    background-color: #3498db;
+}
+
+.navbar a {
+    color: white;
+}
+
+/* Apply styles to the main content area */
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Apply styles to the footer */
+footer {
+    background-color: #f8f9fa;
+    color: #6c757d;
+    padding: 10px 0;
+}
