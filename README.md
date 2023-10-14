@@ -48,3 +48,44 @@ The development of the KiswahiliExams web application will address the education
 We are excited about the opportunity to work on this project and contribute to improving education in Kenya.
 
 **Note:** This proposal is a high-level overview of the project. Further details, including budget, timelines, and technology stack, would be part of a comprehensive project plan.
+
+## Budget
+1. Development Team
+2. Infrastructure and Hosting
+3. Content Creation
+4. Miscellaneous Expenses
+
+## Technology Stack
+1. Front-end Development
+
+HTML/CSS: For creating the website's structure and styling.
+JavaScript: For interactive features, such as quizzes, dynamic content, and user interfaces.
+
+2. Back-end Development
+
+Node.js or Python: Both are suitable for handling server-side logic and managing data.
+
+3. SEO Tools
+
+Implement SEO best practices to improve search engine rankings.
+
+4. Third-party APIs
+
+Integrate APIs for features like payment processing, search, and analytics.
+
+5. Hosting and Deployment
+
+Cloud Hosting: Consider using services like AWS, Azure, or Google Cloud for scalable and reliable hosting.
+Platform as a Service (PaaS): Services like Heroku or Netlify can simplify deployment and management.
+
+6. Mobile Responsiveness
+
+Ensure that the website is responsive to different screen sizes and devices
+
+7. Security
+
+Implement security best practices, including HTTPS, user authentication, and data encryption.
+
+8. Payment Gateway (if needed)
+
+Integrate a payment gateway for selling premium content or services.
