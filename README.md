@@ -61,7 +61,7 @@ The "KiswahiliExams" web application aims to provide a comprehensive and user-fr
 **Problem Statement:**
 In Kenya secondary school students often face challenges accessing high-quality study materials and past examination papers, which are essential for their exam preparation. Teachers and parents also encounter difficulties in tracking student progress and providing the necessary support.
 
-In Kenya, there is a growing need for a centralized and accessible platform for secondary school students, teachers, and parents to access primary school exam resources and materials. The current educational landscape lacks a comprehensive online resource that caters specifically to the needs of secondary school students and educators. This gap in the educational ecosystem presents several challenges:
+In Kenya, there is a growing need for a centralized and accessible platform for secondary school students, teachers, and parents to access secondary school exam resources and materials. The current educational landscape lacks a comprehensive online resource that caters specifically to the needs of secondary school students and educators. This gap in the educational ecosystem presents several challenges:
 
 #### Limited Access to Exam Resources
 Many secondary school students and teachers face difficulties in accessing a wide range of past exam papers, revision materials, and practice quizzes that are essential for exam preparation.
@@ -73,23 +73,19 @@ Traditional printed resources are often expensive and not easily accessible to s
 In a rapidly advancing digital age, the lack of an interactive online platform means students miss out on the advantages of technology-enhanced learning. Engaging digital content and quizzes can significantly improve learning outcomes.
 
 #### Fragmented Information
-While there may be some scattered educational websites and resources, there is no single, comprehensive platform that aggregates and offers a diverse range of educational materials tailored to the Kenyan primary school curriculum.
+While there may be some scattered educational websites and resources, there is no single, comprehensive platform that aggregates and offers a diverse range of educational materials tailored to the Kenyan secondary school curriculum.
 
-**Objective:**
+**Objective**
 The main objective of this project is to develop a web application that addresses the challenges faced by Kenyan secondary school students, teachers, and parents. The KiswahiliExams web application will provide the following key features and functionalities:
 
-1. **Past Exam Papers**: The application will offer a comprehensive collection of past Kiswahili papers, including KCPE (Kenya Certificate of secondary Education) exams. Users will be able to search, access, and download these papers.
+1. **Past Exam Papers**: The application will offer a comprehensive collection of past Kiswahili papers, including KCPE (Kenya Certificate of Secondary Education) exams. Users will be able to search, access, and download these papers.
 
-2. **Study Resources**: KenyanExams will provide educational resources, including study guides, notes, and practice questions, to help students prepare for their exams more effectively.
+2. **User Profiles**: Students, teachers, and parents can create individual profiles.
 
-3. **User Profiles**: Students, teachers, and parents can create individual profiles.
-
-4. **Discussion Forums**: KiswahiliExams will include discussion forums where students can collaborate, ask questions, and receive guidance from peers and educators.
-
-5. **Performance Analytics**: Users will have access to detailed analytics to track their performance over time. Teachers and parents can monitor students' progress and identify areas for improvement.
+3. **Discussion Forums**: KiswahiliExams will include discussion forums where students can collaborate, ask questions, and receive guidance from peers and educators.
 
 **Target Audience:**
-- secondary school students in Kenya
+- Secondary school students in Kenya
 - Parents and guardians
 - Teachers and educators
 
