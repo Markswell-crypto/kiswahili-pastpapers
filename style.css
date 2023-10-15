@@ -1,3 +1,6 @@
+html, body{
+    background-image: url("./assets/class.avif");
+}
 /* Apply styles to the navigation bar */
 .navbar {
     background-color: #3498db;
