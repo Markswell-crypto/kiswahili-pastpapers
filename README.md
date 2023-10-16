@@ -78,7 +78,7 @@ While there may be some scattered educational websites and resources, there is n
 **Objective**
 The main objective of this project is to develop a web application that addresses the challenges faced by Kenyan secondary school students, teachers, and parents. The KiswahiliExams web application will provide the following key features and functionalities:
 
-1. **Past Exam Papers**: The application will offer a comprehensive collection of past Kiswahili papers, including KCPE (Kenya Certificate of Secondary Education) exams. Users will be able to search, access, and download these papers.
+1. **Past Exam Papers**: The application will offer a comprehensive collection of past Kiswahili papers, including KCSE (Kenya Certificate of Secondary Education) exams. Users will be able to search, access, and download these papers.
 
 2. **User Profiles**: Students, teachers, and parents can create individual profiles.
 
